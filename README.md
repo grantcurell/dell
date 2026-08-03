@@ -14,7 +14,7 @@ If you have any questions about something I did, open an issue on the repo at [g
 
 ## Additional Files
 
-Most of the files I use in the projects are linked from the markdown documentation but often there might be additional files not visible for this site. It may be easier to browse to the [actual docs folder](https://github.com/grantcurell/grantcurell.github.io/tree/master/docs) and look at the appropriate folder.
+Most of the files I use in the projects are linked from the markdown documentation but often there might be additional files not visible for this site. It may be easier to browse to the [source project folders](https://github.com/grantcurell/projects/tree/main) and look at the appropriate folder.
 
 ## How to Configure ONIE
 
