@@ -10,7 +10,7 @@ If you wish to use any copyrighted material from this site for purposes of your 
 
 ## Questions
 
-If you have any questions about something I did, open an issue on the repo at [grantcurell.github.io](https://github.com/grantcurell/grantcurell.github.io/issues) or write me at `grant_curell AT dell dot com`.
+If you have any questions about something I did, open an issue on the repo at [grantcurell.github.io](https://github.com/grantcurell/grantcurell.github.io/issues) or write me at `gcurell@curellconsulting.com`.
 
 ## Additional Files
 
